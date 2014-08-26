@@ -38,8 +38,6 @@
 #define SUM        2
 #define GRANDTOTAL 4
 
-int grandTotal = 0;
-
 /* format to be passed to _print */
 char *format = AFORMAT;
 
